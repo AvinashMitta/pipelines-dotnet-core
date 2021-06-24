@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Test-Self-Hosted
+  name: testingscale
 
 variables:
   buildConfiguration: 'Release'
