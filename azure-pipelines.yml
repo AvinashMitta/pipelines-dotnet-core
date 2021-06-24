@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: TestDockerPool
+  name: Test-Self-Hosted
 
 variables:
   buildConfiguration: 'Release'
