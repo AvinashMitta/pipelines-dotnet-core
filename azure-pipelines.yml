@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: testingscale
+  name: Default
 
 variables:
   buildConfiguration: 'Release'
